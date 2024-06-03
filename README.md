@@ -1,2 +1,4 @@
-# frontend-projects
-This repository showcases my collection of frontend development projects, featuring HTML, CSS, and JavaScript. Each project highlights different skills and techniques in web development. The main index.html provides an organized list of all projects, allowing easy navigation to view individual project details.
+# Frontend Portfolio
+
+Welcome to my Frontend Portfolio! This repository is a collection of various frontend projects I have worked on. Each project is designed to illustrate a specific aspect of web development, from basic HTML structures to more complex JavaScript interactions. The main `index.html` file provides an organized list of all the projects, allowing easy navigation and access.
+
